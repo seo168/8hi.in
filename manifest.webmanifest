@@ -1,11 +1,11 @@
 {
-  "name": "8HI 2026",
-  "short_name": "8HI 2026",
-  "description": "Original 8HI game guides for 2026.",
+  "name": "8HI Android APK",
+  "short_name": "8HI",
+  "description": "8HI Android APK, game information and responsible mobile play.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#080a12",
-  "theme_color": "#ffc047",
+  "background_color": "#160706",
+  "theme_color": "#d71920",
   "icons": [
     {
       "src": "/icon-192.png",
